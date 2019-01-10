@@ -1,0 +1,24 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "description": "React components for different AvCan products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avalanche-canada/components.git"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "avcan"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avalanche-canada/components/issues"
+  },
+  "homepage": "https://github.com/avalanche-canada/components#readme"
+}
