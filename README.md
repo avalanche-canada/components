@@ -1,2 +1,2 @@
 # components
-Ract components
+React components
