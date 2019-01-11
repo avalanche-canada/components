@@ -11075,9 +11075,9 @@ function HotZoneReport(_ref) {
 
 /***/ }),
 /* 243 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "35c80a02333724733b365c40eda335ff.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICIzNWM4MGEwMjMzMzcyNDczM2IzNjVjNDBlZGEzMzVmZi5zdmciOw=="
 
 /***/ }),
 /* 244 */
@@ -11119,9 +11119,9 @@ function MountainInformationNetwork(_ref) {
 
 /***/ }),
 /* 245 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "aee6ac59fba470c8b896984c010e6d1b.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJhZWU2YWM1OWZiYTQ3MGM4Yjg5Njk4NGMwMTBlNmQxYi5zdmciOw=="
 
 /***/ }),
 /* 246 */
@@ -11163,9 +11163,9 @@ function MountainConditionsReport(_ref) {
 
 /***/ }),
 /* 247 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "2f272e631738f2d8a623dbef02b36274.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICIyZjI3MmU2MzE3MzhmMmQ4YTYyM2RiZWYwMmIzNjI3NC5zdmciOw=="
 
 /***/ }),
 /* 248 */
@@ -11207,9 +11207,9 @@ function WeatherStation(_ref) {
 
 /***/ }),
 /* 249 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "50d73e6b153e7a7f61785c29e7ca721a.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICI1MGQ3M2U2YjE1M2U3YTdmNjE3ODVjMjllN2NhNzIxYS5zdmciOw=="
 
 /***/ }),
 /* 250 */
@@ -11251,9 +11251,9 @@ function SpecialInformation(_ref) {
 
 /***/ }),
 /* 251 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "1b9e5162d7b0a6ffc2d4f7954e0f6167.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICIxYjllNTE2MmQ3YjBhNmZmYzJkNGY3OTU0ZTBmNjE2Ny5zdmciOw=="
 
 /***/ }),
 /* 252 */
@@ -11295,9 +11295,9 @@ function FatalAccident(_ref) {
 
 /***/ }),
 /* 253 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "df0af492b90feafd46f49b3a61a97e89.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICJkZjBhZjQ5MmI5MGZlYWZkNDZmNDliM2E2MWE5N2U4OS5zdmciOw=="
 
 /***/ }),
 /* 254 */
@@ -57374,9 +57374,9 @@ module.exports = {"Container":"_2xVg"};
 
 /***/ }),
 /* 630 */
-/***/ (function(module, exports, __webpack_require__) {
+/***/ (function(module, exports) {
 
-module.exports = __webpack_require__.p + "4489927c810278358fe5b6396d5c11f3.svg";
+module.exports = "data:image/svg+xml;base64,bW9kdWxlLmV4cG9ydHMgPSBfX3dlYnBhY2tfcHVibGljX3BhdGhfXyArICI0NDg5OTI3YzgxMDI3ODM1OGZlNWI2Mzk2ZDVjMTFmMy5zdmciOw=="
 
 /***/ }),
 /* 631 */
