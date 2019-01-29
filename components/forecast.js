@@ -64746,6 +64746,7 @@ function renderProblem(problem, index) {
       comment = problem.comment,
       travelAndTerrainAdvice = problem.travelAndTerrainAdvice;
   return _react.default.createElement(_Problem.default, {
+    key: index,
     title: "Avalanche Problem ".concat(index + 1, ": ").concat(type)
   }, _react.default.createElement(_TopicSet.default, null, _react.default.createElement(_Topic.default, {
     title: "What Elevation?",
