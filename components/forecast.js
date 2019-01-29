@@ -64897,11 +64897,11 @@ var _Problem = _interopRequireDefault(__webpack_require__(775));
 
 function Advice(_ref) {
   var children = _ref.children;
-  return _react.default.createElement("div", {
+  return children ? _react.default.createElement("div", {
     className: _Problem.default.Advice
   }, _react.default.createElement("h3", {
     className: _Problem.default.SubHeader
-  }, "Travel and Terrain Advice"), _react.default.createElement(_misc.InnerHTML, null, children));
+  }, "Travel and Terrain Advice"), _react.default.createElement(_misc.InnerHTML, null, children)) : null;
 }
 
 /***/ }),
@@ -64928,9 +64928,9 @@ var _misc = __webpack_require__(258);
 
 function Comment(_ref) {
   var children = _ref.children;
-  return _react.default.createElement("div", {
+  return children ? _react.default.createElement("div", {
     className: _Problem.default.Comment
-  }, _react.default.createElement(_misc.InnerHTML, null, children));
+  }, _react.default.createElement(_misc.InnerHTML, null, children)) : null;
 }
 
 /***/ }),
