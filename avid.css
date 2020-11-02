@@ -1904,10 +1904,6 @@
         background-color: hsl(0, 0%, 90%);
         background-color: var(--gray-lighter);
     }
-._2Ccf svg > path:not([fill='none']) {
-        fill: #245eac;
-        fill: var(--primary);
-    }
 ._2Ccf#foundation {
         background-color: #e6252f;
         background-color: var(--brand-secondary)
@@ -2287,6 +2283,35 @@
 .aGyN > img {
         display: none;
     }
+
+.FV-T {
+    padding-top: 1em;
+}
+
+._1_vk {
+    padding-right: 1em;
+}
+
+.sh9e {
+    padding-bottom: 1em;
+}
+
+._1Cof {
+    padding-left: 1em;
+}
+
+._4LRe {
+}
+
+.Auw9 {
+}
+
+._2bBd {
+}
+
+._2i2z > button {
+    margin-top: 0.5em;
+}
 
 :root {
     --brand-primary: #245eac;
@@ -3768,31 +3793,6 @@ a[href] ._2D6A:after {
     }
 
 ._1rjJ {
-}
-
-.FV-T {
-    padding-top: 1em;
-}
-
-._1_vk {
-    padding-right: 1em;
-}
-
-.sh9e {
-    padding-bottom: 1em;
-}
-
-._1Cof {
-    padding-left: 1em;
-}
-
-._4LRe {
-}
-
-.Auw9 {
-}
-
-._2bBd {
 }
 
 :root {
